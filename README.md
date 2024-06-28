@@ -12,11 +12,11 @@ We have tried to seperate all the grammatical problems and solve them individual
   - Suggesting better vocabulary
 
 ### Things done till now:
-   [Spellcheck](https://github.com/dini-5002/Grammar_check/blob/main/Spellcheck.ipynb) :
+   - [Spellcheck](https://github.com/dini-5002/Grammar_check/blob/main/Spellcheck.ipynb) :
    We have used functions such as edit and probability to give the most probable corrected form of the incorrect word identified.
-   [Puntuation](https://github.com/dini-5002/Grammar_check/blob/main/Punctuation.ipynb) :
+   - [Puntuation](https://github.com/dini-5002/Grammar_check/blob/main/Punctuation.ipynb) :
    We have used a rule based approch to correct basic punctuation errors in a text.
-   [Subject - Verb](https://github.com/dini-5002/Grammar_check/blob/main/subverb.ipynb) :
+   - [Subject - Verb](https://github.com/dini-5002/Grammar_check/blob/main/subverb.ipynb) :
    Here we have tried to use some basic neural network methods to check whether a sentence has subject verb agreement error or not. This is still in progress.
 
 ### Things to be added:
