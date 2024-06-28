@@ -17,7 +17,7 @@ We have tried to seperate all the grammatical problems and solve them individual
    - [Puntuation](https://github.com/dini-5002/Grammar_check/blob/main/Punctuation.ipynb) :
    We have used a rule based approch to correct basic punctuation errors in a text.
    - [Subject - Verb](https://github.com/dini-5002/Grammar_check/blob/main/subverb.ipynb) :
-   Here we have tried to use some basic neural network methods to check whether a sentence has subject verb agreement error or not. This is still in progress.
+   Here we have tried to use some basic neural network methods to check whether a sentence has subject verb agreement or not. This is still in progress.
 
 ### Things to be added:
    - Correct basic grammatical errors: For this we are planning to use neural network such as RNN.
