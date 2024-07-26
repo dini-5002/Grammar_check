@@ -1,28 +1,24 @@
-# Grammar_check
+# Grammar_autocorrect
 # Grammar Autocorrect
-## Introduction 
-This project aims to provide automatic grammar correction for text inputs.
-We have tried to seperate all the grammatical problems and solve them individually.
 
-## Tasks:
-  - Spelling check
-  - Punctuation correction 
-  - Basic grammatical errors - Tense errors, Subject Verb agreement, prepositions, articles etc.
-  - Tone Suggestions
-  - Suggesting better vocabulary
+##Overview
+Grammar Autocorrect is a Python-based project under Machine Learning domain. It leverages pre-trained Transformer model from Hugging-Face to automatically correct grammar, and give tone analysis, while also correcting minor spelling and punctuation mistakes in the background. 
 
-### Things done till now:
-   - [Spellcheck](https://github.com/dini-5002/Grammar_check/blob/main/Spellcheck.ipynb) :
-   We have used functions such as edit and probability to give the most probable corrected form of the incorrect word identified.
-   - [Puntuation](https://github.com/dini-5002/Grammar_check/blob/main/Punctuation.ipynb) :
-   We have used a rule based approch to correct basic punctuation errors in a text.
-   - [Subject - Verb](https://github.com/dini-5002/Grammar_check/blob/main/subverb.ipynb) :
-   Here we have tried to use some basic neural network methods to check whether a sentence has subject verb agreement or not. This is still in progress.
+##Features
+- Grammar Correction: Automatically detects and corrects grammatical errors, including spelling and punctuation issues, using fine-tuned transformer models.
+- Tone Analysis: Analyzes the tone of the text and provides a bar graph visualization to represent emotional sentiment, uses a pretrained model.
 
-### Things to be added:
-   - Correct basic grammatical errors: For this we are planning to use neural network such as RNN.
-   - Tone suggestion: We are thinking of doing this with contextual analysis using neural networks.
-   - Improving vocabulary: We are planning to do this with taking help of a dictionary to provide alternative for overused words.
+##Interface
+
+##Team members
+
+##Mentor
+
+
+
+
+
+
    
    
    
