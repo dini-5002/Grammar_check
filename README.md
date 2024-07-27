@@ -13,7 +13,7 @@ Grammar Autocorrect is a Python-based project under Machine Learning domain. It 
 
 ### How the Interface Works
 
-1. **Enter Your Text**: In the provided textbox, type or paste the text you want to process.
+1. **Enter Your Text**: In the provided textbox, type or paste the text you want to autocorrect.
 2. **Select Options**: You have two checkboxes to choose from:
    - **Enhance Vocabulary**: If you select this option, the interface will improve your vocabulary by replacing frequently used words with their synonyms.
    - **Analyze Tone**: If you select this option, the interface will analyze the emotional tone of your text and provide a visual representation.
