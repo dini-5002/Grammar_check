@@ -11,6 +11,20 @@ Grammar Autocorrect is a Python-based project under Machine Learning domain. It 
 
 ## Interface
 
+### How the Interface Works
+
+1. **Enter Your Text**: In the provided textbox, type or paste the text you want to process.
+2. **Select Options**: You have two checkboxes to choose from:
+   - **Enhance Vocabulary**: If you select this option, the interface will improve your vocabulary by replacing frequently used words with their synonyms.
+   - **Analyze Tone**: If you select this option, the interface will analyze the emotional tone of your text and provide a visual representation.
+3. **View Results**: After processing, you'll see the following:
+   - **Corrected Grammar**: Your text will be displayed with grammar corrections applied.
+   - **Enhanced Vocabulary**: If you chose to enhance the vocabulary, the improved text will be shown here.
+   - **Tone Analysis Plot**: If you chose to analyze the tone, a plot will appear, showing the emotional sentiment of your text.
+
+Simply enter your text, select your options, and view the results for a more polished and analyzed version of your input.
+
+
 ## Team members
 - [dini-5002](https://github.com/dini-5002)
 - [RuchaPrabhu](https://github.com/RuchaPrabhu)
