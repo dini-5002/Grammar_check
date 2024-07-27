@@ -16,8 +16,8 @@ Grammar Autocorrect is a Python-based project under Machine Learning domain. It 
 - [RuchaPrabhu](https://github.com/RuchaPrabhu)
 - [Aish25agrawal](https://github.com/Aish25agrawal)
 
-##Mentor
-
+## Mentor
+- [lovelybhardwaj](https://github.com/lovelybhardwaj)
 
 
 
