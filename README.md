@@ -12,7 +12,7 @@ Grammar Autocorrect is a Python-based project under Machine Learning domain. It 
 
 ## Team members
 @RuchaPrabhu
-@dini-5002
+@https://github.com/dini-5002
 
 ##Mentor
 
