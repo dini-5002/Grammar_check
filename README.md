@@ -17,6 +17,9 @@ Grammar Autocorrect is a Python-based project under Machine Learning domain. It 
 2. **Select Options**: You have two checkboxes to choose from:
    - **Enhance Vocabulary**: If you select this option, the interface will improve your vocabulary by replacing frequently used words with their synonyms.
    - **Analyze Tone**: If you select this option, the interface will analyze the emotional tone of your text and provide a visual representation.
+  
+## Demo Video
+[Link to the Demo Video]("C:\Users\nandi\OneDrive\Desktop\Demo Video.mp4")
 
 ## Team members
 - [Nandini Kumari](https://github.com/dini-5002)
