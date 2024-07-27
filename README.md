@@ -26,12 +26,12 @@ Simply enter your text, select your options, and view the results for a more pol
 
 
 ## Team members
-- [dini-5002](https://github.com/dini-5002)
-- [RuchaPrabhu](https://github.com/RuchaPrabhu)
-- [Aish25agrawal](https://github.com/Aish25agrawal)
+- [Nandini Kumari](https://github.com/dini-5002)
+- [Rucha Prabhu](https://github.com/RuchaPrabhu)
+- [Aishwarya Agrawal](https://github.com/Aish25agrawal)
 
 ## Mentor
-- [lovelybhardwaj](https://github.com/lovelybhardwaj)
+- [Lovely Bhardwaj](https://github.com/lovelybhardwaj)
 
 
 
