@@ -10,7 +10,7 @@ Grammar Autocorrect is a Python-based project under Machine Learning domain. It 
 - Vocabulary Enhancement: Enhances the vocabulary of a given text by replacing common words with their contextual synonyms. 
 
 ## Colab Notebook
-[Google colab](https://colab.research.google.com/drive/1100S9D-DgMubAEe4zEO67E9MA-l3jN3m?usp=sharing)
+[Google colab](https://colab.research.google.com/drive/1IPv-xh9rbJ_xY4nGDRYwgCn5N9DrHL4T?usp=sharing)
 ## Interface
 
 ### How the Interface Works
